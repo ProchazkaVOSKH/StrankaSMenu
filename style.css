@@ -24,7 +24,11 @@
 }
 
 #boxContent img {
-    width: 100%;
+    width: auto;
+}
+
+h1 {
+    font-variant: small-caps;
 }
 
 
